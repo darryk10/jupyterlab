@@ -42,6 +42,7 @@ header:
     - 'scripts/release_template.txt'
     - 'typedoc-theme'
     - 'yarn.lock'
+    - '.cleanignore'
     - 'LICENSE'
 
   comment: on-failure
