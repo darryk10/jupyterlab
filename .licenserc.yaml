@@ -30,6 +30,7 @@ header:
     - 'binder/postBuild'
     - 'binder/start'
     - 'coverage'
+    - 'scripts/ci_script.ps1'
     - 'dev_mode/style.js'
     - 'examples/federated/example.cert'
     - 'galata/test/jupyterlab/notebooks/'
