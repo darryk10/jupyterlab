@@ -1,7 +1,4 @@
 #!/usr/bin/env python3
-# Copyright (c) Jupyter Development Team.
-# Distributed under the terms of the Modified BSD License.
-
 #
 # JupyterLab documentation build configuration file, created by
 # sphinx-quickstart on Thu Jan  4 15:10:23 2018.
