@@ -5,9 +5,9 @@ header:
     software-name: JupyterLab
     content: |
       Copyright (c) Jupyter Development Team.
-      Distributed under the terms of the Modified BSD License.
+      Distributed under the terms of the Modified BSD License..
 
-  paths-ignore:
+  ignore:
     - '**/*.ipynb'
     - '**/*.json'
     - '**/*.md'
@@ -30,6 +30,7 @@ header:
     - 'binder/postBuild'
     - 'binder/start'
     - 'coverage'
+    - 'scripts/ci_script.ps1'
     - 'dev_mode/style.js'
     - 'examples/federated/example.cert'
     - 'galata/test/jupyterlab/notebooks/'
@@ -40,7 +41,8 @@ header:
     - 'packages/extensionmanager-extension/examples/listings/settings/@jupyterlab/extensionmanager-extension/plugin.jupyterlab-settings'
     - 'scripts/release_template.txt'
     - 'typedoc-theme'
-    - 'LICENSE'
     - 'yarn.lock'
+    - '.cleanignore'
+    - 'LICENSE'
 
   comment: on-failure
